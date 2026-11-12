@@ -1,0 +1,1 @@
+The Power BI file was supplied by the project owner in this conversation. Before making this repository public, confirm that you have the right to publish the PBIX and any data embedded in it. Remove or anonymize personal, confidential, or licensed data as needed.
